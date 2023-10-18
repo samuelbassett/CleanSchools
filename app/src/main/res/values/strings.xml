@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MidtermProject</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="school_not_found">School Not Found</string>
+    <string name="web_client_id">798634596879-9plb4tqmtgtthklhtfm6eobmrstdn1c9.apps.googleusercontent.com</string>
+</resources>
